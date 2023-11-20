@@ -1,0 +1,117 @@
+{
+  "Header.Item1": "Sobre mim",
+  "Header.Item2": "Experiência",
+  "Header.Item3": "Projetos",
+  "Header.Item4": "Contato",
+  "Header.cvBtn": "Curriculum",
+  "Header.cvName": "CV_Arthur_Valente.pdf",
+  "Banner.Pretitle": "Olá! meu nome é",
+  "Banner.Description": "Eu tenho <span class='underline'>4 anos de experiência</span> desenvolvendo sistemas, interfaces, sempre com muita curiosidade para descobrir a melhor versão para o código e sendo assim a melhor versão de mim.  <span class='underline'>Angular</span> sendo principal porém, com foco em <span class='underline'>Java</span> por agora, aplicando boas práticas e padrões de desenvolvimento.",
+  "Banner.ActionBtn": "Entrar em contato",
+  "AboutMe.Title": "Sobre mim",
+  "AboutMe.Paragraphs": [
+    "Há <span class='underline'>4 anos como desenvolvedor</span>, praticando e aprendendo todos os dias. <span class='underline'>testes unitários</span>, <span class='underline'>realizando integração contínua</span>e cobrindo funções de desenvolvedor front-end com transição <span class='underline'>back-end</span>. ",
+    "Minhas habilidades também incluem implementar melhorias em sistemas, otimizar sites, padronizar padrões e sugerir e executar ideias que agreguem valor ao projeto em que estou trabalhando.",
+    "Algumas das tecnologias nas quais treinei e trabalhei incluem (mas não estão limitadas a):"
+  ],
+  "Experience.Title": "Experiência",
+  "Experience.Jobs": [
+    {
+      "Tab": "BTG Pactual",
+      "Title": "Desenvolvedor de software",
+      "Date": "Março de 2022 - Presente",
+      "Description": [
+        "Criação e manutenção de plataforma de monitoramento econômico para investidores de alto e médio padrão.",
+        "Programação funcional em templates e plugins para adicionar os recursos de monitoramento necessários.",
+        "Implementação de integração contínua e backups diários.",
+        "Criação e manutenção de uma segunda Plataforma de Monitoramento Feito em Angular, Angular Material, RxJS, Sass com gráficos (configuráveis), sistema de alarmes, e gerenciamento de usuários e configuração de parâmetros gerais. (CMS)",
+        "Planejamento, reuniões e relatórios."
+      ]
+    },
+    {
+      "Tab": "Freelance",
+      "Title": "Independente",
+      "Date": "Maio de 2016 - Presente",
+      "Description": [
+        "Implementando melhorias contínuas, atuando em frontend e backend.",
+        "Criação de plataformas com Angular, Java, Spring Boot criando aplicações reativas utilizando programação funcional e orientação a objetos.",
+        "Automação de processos com estruturas de dados.",
+        "Projete layout com SASS, Angular, Spring, Material, etc."
+      ]
+    },
+    {
+      "Tab": "Destec",
+      "Title": "Desenvolvedor FullStack",
+      "Date": "Julho de 2018 - dezembro de 2020",
+      "Description": [
+        "Criação de landing pages interativas e acessíveis para captar usuário para o cliente",
+        "Utilizando 'observables' para gerenciamento de solicitações de APIs com RxJS.",
+        "Criação de módulos com formas reativas",
+        "Desenvolvimento de plataformas responsivas comportando vários dispositivos"
+      ]
+    },
+    {
+      "Tab": "Glória",
+      "Title": "Desenvolvedor FullStack",
+      "Description": [
+        "O Projeto Glória é uma iniciativa de empoderamento da mulher e combate à violência de gênero. Essa plataforma de transformação social foi criada com o objetivo de identificar, educar, intervir e dar suporte aos casos de agressões de mulheres ao redor do mundo.",
+        "Execute a refatoração do código antigo.",
+        "Portabilidade de multiplos dispositivos."
+      ]
+    }
+  ],
+  "FeatureProjects.Title": "Melhores Projetos",
+  "FeatureProjects.Label": "Projeto em destaque",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Content",
+      "Description": "Aplicação criada para investidores de alto e médio padrão, <span class='underline'>gráficos </span>, <span class='underline'>larga escala de operações </span>, <span class='underline'>acessibilidade </span>, e <span class='underline'>gerenciamento de usuários</span>. ",
+      "imgs": [
+        "assets/images/content/content1.png",
+        "assets/images/content/content2.png",
+        "assets/images/content/content3.png",
+        "assets/images/content/content4.png"
+      ],
+      "demoLink": "https://content.btgpactual.com/research/home",
+      "Technologies": [
+        "Angular",
+        "SASS",
+        "Material Angular",
+        "RxJS",
+        "Java",
+        "Spring Boot"
+      ]
+    },
+    {
+      "Title": "Plataforma Nova Linha",
+      "Description": "Plataforma criada para captação de clientes para conversão de vendas.  <span class='underline'>integração com WhatsApp</span>, <span class='underline'> formulário de contato</span>, <span class='underline'>gerenciamento de clientes</span> e <span class='underline'>gerenciamento de tags para o rank do Google.</span>",
+      "imgs": ["assets/images/novalinha/novalinha.png"],
+      "Technologies": ["VueJS", "Vercel", "SASS"]
+    },
+    {
+      "Title": "Instituto Gloria",
+      "Description": "Plataforma para aumentar o contato tanto de quem já auxilia quanto quem não auxilia, a luta contra o combate à violência de gênero, <span class='underline'>linha do tempo</span>, <span class='underline'>formulário de contato</span>, <span class='underline'>Google Analytics</span>, e <span class='underline'>doação e contato direto com auxiliados.</span>",
+      "imgs": [
+        "assets/images/gloria/gloria1.png",
+        "assets/images/gloria/gloria2.png",
+        "assets/images/gloria/gloria3.png"
+      ],
+      "Technologies": ["Angular", "SASS", "Material Angular", "RxJS"]
+    },
+    {
+      "Title": "Bankers",
+      "Description": "Portal educacional focado em formar profissionais internalizados, <span class='underline'>gráficos configuráveis</span>, <span class='underline'>videos e outros</span>, <span class='underline'>gerenciamento de usuários</span>, e <span class='underline'>multiplos idiomas.</span>",
+      "imgs": [
+        "assets/images/bankers/bankers1.png",
+        "assets/images/bankers/bankers2.png",
+        "assets/images/bankers/bankers3.png"
+      ],
+      "Technologies": ["Angular", "SASS", "Material Angular", "RxJS"]
+    }
+  ],
+  "OtherProjects.Title": "Mais projetos",
+  "Contact.Pretitle": "Qual é o próximo",
+  "Contact.Title": "Entrar em contato!",
+  "Contact.Content": "Ficarei feliz em receber seu contato caso queira conversar sobre novas oportunidades. ",
+  "Contact.Btn": "Diga olá"
+}
