@@ -35,4 +35,11 @@ export class BannerComponent implements OnInit {
   constructor(public analyticsService: AnalyticsService) {}
 
   ngOnInit(): void {}
+
+  downloadCV() {
+    let url = window.location.href;
+
+    // Open a new window with the CV
+    window.open(url + '/../assets/cv/curriculum.pdf', '_blank');
+  }
 }
