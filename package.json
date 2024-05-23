@@ -1,6 +1,6 @@
 {
   "name": "arthur-portfolio",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -27,6 +27,7 @@
     "@ngx-translate/core": "^13.0.0",
     "@ngx-translate/http-loader": "^6.0.0",
     "@types/aos": "^3.0.7",
+    "@vercel/analytics": "^1.1.1",
     "aos": "^2.3.4",
     "bootstrap": "^4.5.0",
     "ng2-animate-on-scroll": "2.3.2",

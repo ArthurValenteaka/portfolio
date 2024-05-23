@@ -6,13 +6,14 @@
   "Header.cvBtn": "Curriculum",
   "Header.cvName": "CV_Arthur_Valente.pdf",
   "Banner.Pretitle": "Olá! meu nome é",
-  "Banner.Description": "Eu tenho <span class='underline'>4 anos de experiência</span> desenvolvendo sistemas, interfaces, sempre com muita curiosidade para descobrir a melhor versão para o código e sendo assim a melhor versão de mim.  <span class='underline'>Angular</span> sendo principal porém, com foco em <span class='underline'>Java e C#</span> por agora, aplicando boas práticas e padrões de desenvolvimento.",
+  "Banner.Description": "Tenho <span class='underline'>4 anos de experiência</span> desenvolvendo sistemas e interfaces, sempre com muita curiosidade para descobrir a melhor versão para o código e sendo assim a melhor versão de mim. Apesar de trabalhar principalmente com  <span class='underline'>Angular</span>, no momento estou com foco em <span class='underline'>Java e C#</span>, aplicando boas práticas e padrões de desenvolvimento.",
   "Banner.ActionBtn": "Entrar em contato",
   "AboutMe.Title": "Sobre mim",
   "AboutMe.Paragraphs": [
     "Há <span class='underline'>4 anos como desenvolvedor</span>, praticando e aprendendo todos os dias. <span class='underline'>testes unitários</span>, <span class='underline'>realizando integração contínua</span>e cobrindo funções de desenvolvedor front-end com transição <span class='underline'>back-end</span>. ",
-    "Minhas habilidades também incluem implementar melhorias em sistemas, otimizar sites, padronizar padrões e sugerir e executar ideias que agreguem valor ao projeto em que estou trabalhando.",
-    "Algumas das tecnologias nas quais treinei e trabalhei incluem (mas não estão limitadas a):"
+    "Formado em <span class='underline'>Analise e desenvolvimento de sistemas </span> pela instituição <span class='underline'>IESB</span>, aplicando todo conhecimento de analisar projetar e documentar sistemas com qualidade e robustez.",
+    "Minhas habilidades também incluem implementar melhorias em sistemas, otimizar sites, padronizar, sugerir e executar ideias que agreguem valor ao projeto em que estou trabalhando.",
+    "Algumas das <span class='underline'>tecnologias</span> nas quais treinei e trabalhei incluem (mas não estão limitadas a):"
   ],
   "Experience.Title": "Experiência",
   "Experience.Jobs": [
@@ -21,7 +22,7 @@
       "Title": "Desenvolvedor de software",
       "Date": "Março de 2022 - Presente",
       "Description": [
-        "Criação e manutenção de plataforma de monitoramento econômico para investidores de alto e médio padrão.",
+        "Criação e manutenção de plataforma de monitoramento econômico para investidores de alto e médio padrão com mais de 20 mil usuários semanais",
         "Programação funcional em templates e plugins para adicionar os recursos de monitoramento necessários.",
         "Implementação de integração contínua e backups diários.",
         "Criação e manutenção de uma segunda Plataforma de Monitoramento Feito em Angular, Angular Material, RxJS, Sass com gráficos (configuráveis), sistema de alarmes, e gerenciamento de usuários e configuração de parâmetros gerais. (CMS)",
@@ -36,6 +37,7 @@
         "Implementando melhorias contínuas, atuando em frontend e backend.",
         "Criação de plataformas com Angular, Java, C# .Net, Spring Boot criando aplicações reativas utilizando programação funcional e orientação a objetos.",
         "Automação de processos com estruturas de dados.",
+        "Aprendendo muito a resolver problemas que não necessariamente eu deveria saber resolver porém, todo conhecimento é pouco e sigo aprendendo com eles",
         "Projete layout com SASS, Angular, Spring, Material, etc."
       ]
     },

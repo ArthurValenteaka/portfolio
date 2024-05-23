@@ -5,13 +5,13 @@
   "Header.Item4": "Contact",
   "Header.cvBtn": "CV",
   "Header.cvName": "CV_Arthur_Valente.pdf",
-  "Banner.Pretitle": "Hello! ",
+  "Banner.Pretitle": "Hello! My name is",
   "Banner.Description": "I have <span class='underline'>4 years of experience</span> developing systems, interfaces, always with a lot of curiosity to discover the best version of the code and thus being the best version of myself.  <span class='underline'>Angular</span> being main however, focusing on <span class='underline'>Java and C#</span> for now, applying good practices and development standards.",
   "Banner.ActionBtn": "Get in touch",
   "AboutMe.Title": "About me",
   "AboutMe.Paragraphs": [
     "There is <span class='underline'>4 years as a developer</span>, practicing and learning every day. <span class='underline'>unitary tests</span>, <span class='underline'>performing continuous integration</span> and covering front-end developer roles with transition to <span class='underline'>backend</span>. ",
-    "My skills also include implementing system improvements, optimizing websites, standardizing standards and suggesting and executing ideas that add value to the project I am working on.",
+    "My skills also include implementing system improvements, optimizing websites, standards, suggesting and executing ideas that add value to the project I am working on.",
     "Some of the technologies I have trained and worked on include (but are not limited to):"
   ],
   "Experience.Title": "Experience",
