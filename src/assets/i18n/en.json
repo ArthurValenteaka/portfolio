@@ -6,7 +6,7 @@
   "Header.cvBtn": "CV",
   "Header.cvName": "CV_Arthur_Valente.pdf",
   "Banner.Pretitle": "Hello! My name is",
-  "Banner.Description": "I have <span class='underline'>4 years of experience</span> developing systems, interfaces, always with a lot of curiosity to discover the best version of the code and thus being the best version of myself.  <span class='underline'>Angular</span> being main however, focusing on <span class='underline'>Java</span> for now, applying good practices and development standards.",
+  "Banner.Description": "I have <span class='underline'>4 years of experience</span> developing systems, interfaces, always with a lot of curiosity to discover the best version of the code and thus being the best version of myself.  <span class='underline'>Angular</span> being main however, focusing on <span class='underline'>Java and C#</span> for now, applying good practices and development standards.",
   "Banner.ActionBtn": "Get in touch",
   "AboutMe.Title": "About me",
   "AboutMe.Paragraphs": [
@@ -34,7 +34,7 @@
       "Date": "May 2016 – Present",
       "Description": [
         "Implementing continuous improvements, working on frontend and backend.",
-        "Creation of platforms with Angular, Java, Spring Boot creating reactive applications using functional programming and object orientation.",
+        "Creation of platforms with Angular, Java, AWS,C# .Net, Spring Boot creating reactive applications using functional programming and object orientation.",
         "Process automation with data structures.",
         "Design layout with SASS, Angular, Spring, Material, etc."
       ]
@@ -79,6 +79,8 @@
         "Angular Material",
         "RxJS",
         "Java",
+        "C# .Net",
+        "AWS",
         "Spring Boot"
       ]
     },

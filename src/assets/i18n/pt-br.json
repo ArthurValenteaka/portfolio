@@ -6,7 +6,7 @@
   "Header.cvBtn": "Curriculum",
   "Header.cvName": "CV_Arthur_Valente.pdf",
   "Banner.Pretitle": "Olá! meu nome é",
-  "Banner.Description": "Tenho <span class='underline'>4 anos de experiência</span> desenvolvendo sistemas e interfaces, sempre com muita curiosidade para descobrir a melhor versão para o código e sendo assim a melhor versão de mim. Apesar de trabalhar principalmente com  <span class='underline'>Angular</span>, no momento estou com foco em <span class='underline'>Java</span>, aplicando boas práticas e padrões de desenvolvimento.",
+  "Banner.Description": "Tenho <span class='underline'>4 anos de experiência</span> desenvolvendo sistemas e interfaces, sempre com muita curiosidade para descobrir a melhor versão para o código e sendo assim a melhor versão de mim. Apesar de trabalhar principalmente com  <span class='underline'>Angular</span>, no momento estou com foco em <span class='underline'>Java e C#</span>, aplicando boas práticas e padrões de desenvolvimento.",
   "Banner.ActionBtn": "Entrar em contato",
   "AboutMe.Title": "Sobre mim",
   "AboutMe.Paragraphs": [
@@ -35,7 +35,7 @@
       "Date": "Maio de 2016 - Presente",
       "Description": [
         "Implementando melhorias contínuas, atuando em frontend e backend.",
-        "Criação de plataformas com Angular, Java, Spring Boot criando aplicações reativas utilizando programação funcional e orientação a objetos.",
+        "Criação de plataformas com Angular, Java, C# .Net, Spring Boot criando aplicações reativas utilizando programação funcional e orientação a objetos.",
         "Automação de processos com estruturas de dados.",
         "Aprendendo muito a resolver problemas que não necessariamente eu deveria saber resolver porém, todo conhecimento é pouco e sigo aprendendo com eles",
         "Projete layout com SASS, Angular, Spring, Material, etc."
@@ -81,6 +81,7 @@
         "Material Angular",
         "RxJS",
         "Java",
+        "C# .Net",
         "Spring Boot"
       ]
     },
