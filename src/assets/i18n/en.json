@@ -3,69 +3,69 @@
   "Header.Item2": "Experience",
   "Header.Item3": "Projects",
   "Header.Item4": "Contact",
-  "Header.cvBtn": "CV",
+  "Header.cvBtn": "Curriculum",
   "Header.cvName": "CV_Arthur_Valente.pdf",
   "Banner.Pretitle": "Hello! My name is",
-  "Banner.Description": "I have <span class='underline'>4 years of experience</span> developing systems, interfaces, always with a lot of curiosity to discover the best version of the code and thus being the best version of myself.  <span class='underline'>Angular</span> being main however, focusing on <span class='underline'>Java and C#</span> for now, applying good practices and development standards.",
+  "Banner.Description": "With <span class='underline'>4 years of experience</span> developing systems and interfaces, always acting with great curiosity to discover the best version of my code and thus becoming the best version of myself. <br> Nowadays, I work as a <span class='underline'>FullStack</span>, and my main technologies are <span class='underline'>C#, Java, and Angular +</span>.",
   "Banner.ActionBtn": "Get in touch",
   "AboutMe.Title": "About me",
   "AboutMe.Paragraphs": [
-    "There is <span class='underline'>4 years as a developer</span>, practicing and learning every day. <span class='underline'>unitary tests</span>, <span class='underline'>performing continuous integration</span> and covering front-end developer roles with transition to <span class='underline'>backend</span>. ",
-    "My skills also include implementing system improvements, optimizing websites, standards, suggesting and executing ideas that add value to the project I am working on.",
-    "Some of the technologies I have trained and worked on include (but are not limited to):"
+    "For <span class='underline'>4 years as a developer</span>, practicing and learning every day. Always working with <span class='underline'>unit testing</span>, <span class='underline'>performing continuous integration</span>, and maintaining code durability with clean architecture.",
+    "I have experience with highly scalable applications, applying algorithms to handle high demand in the system.",
+    "Some of the technologies I have worked with (but are not limited to):"
   ],
   "Experience.Title": "Experience",
   "Experience.Jobs": [
     {
       "Tab": "BTG Pactual",
-      "Title": "Software developer",
-      "Date": "March 2022 – Present",
+      "Title": "Software Developer",
+      "Date": "March 2022 - Present",
       "Description": [
-        "Creation and maintenance of an economic monitoring platform for high and medium-sized investors.",
-        "Functional programming in templates and plugins to add the necessary monitoring features.",
-        "Implementation of continuous integration and daily backups.",
-        "Creation and maintenance of a second Monitoring Platform Made in Angular, Angular Material, RxJS, Sass with graphics (configurable), alarm system, and user management and configuration of general parameters. ",
-        "Planning, meetings and reports."
+        "My current role involves working on the internal credit system, maintaining over 44 million integrations every day. One of the main repositories I work on handles the Small and Medium Enterprises (SME) sector, which includes developing highly scalable features due to the system's large demand.",
+        "Creation and maintenance of an economic monitoring platform for high and mid-level investors with over 20,000 weekly users.",
+        "Functional programming in templates and plugins to add necessary monitoring features.",
+        "Creation and maintenance of a second Monitoring Platform built with Angular, featuring customizable charts, an alert system, user management, and general parameter configuration (CMS)."
       ]
     },
     {
       "Tab": "Freelance",
       "Title": "Independent",
-      "Date": "May 2016 – Present",
+      "Date": "May 2016 - Present",
       "Description": [
-        "Implementing continuous improvements, working on frontend and backend.",
-        "Creation of platforms with Angular, Java, AWS,C# .Net, Spring Boot creating reactive applications using functional programming and object orientation.",
+        "Implementing continuous improvements, working on both frontend and backend.",
+        "Creating platforms using Angular, Java, C# .Net, and Spring Boot, developing reactive applications using functional programming and object-oriented design.",
         "Process automation with data structures.",
-        "Design layout with SASS, Angular, Spring, Material, etc."
+        "Learning a lot by solving problems that I might not have been expected to solve, but all knowledge is valuable, and I keep learning from them.",
+        "Designing layouts with SASS, Angular, Spring, Material, etc."
       ]
     },
     {
-      "Tab": "Destec",
+      "Tab": "DESTEC",
       "Title": "FullStack Developer",
       "Date": "July 2018 - December 2020",
       "Description": [
-        "Creation of interactive and accessible landing pages to capture users for the customer",
+        "Creation of interactive and accessible landing pages to capture users for the client.",
         "Using 'observables' to manage API requests with RxJS.",
-        "Creating modules with reactive forms",
-        "Development of responsive platforms supporting multiple devices"
+        "Creating reactive form modules.",
+        "Developing responsive platforms for multiple devices."
       ]
     },
     {
-      "Tab": "Glory",
+      "Tab": "Glória",
       "Title": "FullStack Developer",
       "Description": [
-        "Projeto Glória is an initiative to empower women and combat gender-based violence. ",
-        "Perform refactoring of old code.",
-        "Portability of multiple devices."
+        "The Glória Project is an initiative to empower women and combat gender-based violence. This social transformation platform was created to identify, educate, intervene, and provide support to women facing aggression worldwide.",
+        "Executed the refactoring of the old code.",
+        "Portability for multiple devices."
       ]
     }
   ],
-  "FeatureProjects.Title": "Best Projects",
-  "FeatureProjects.Label": "Featured project",
+  "FeatureProjects.Title": "Top Projects",
+  "FeatureProjects.Label": "Featured Project",
   "FeatureProjects.Projects": [
     {
       "Title": "Content",
-      "Description": "Application created for high and medium standard investors, <span class='underline'>graphics </span>, <span class='underline'>large scale of operations </span>, <span class='underline'>accessibility </span>, It is <span class='underline'>user management</span>. ",
+      "Description": "An application created for high and mid-level investors, featuring <span class='underline'>charts</span>, <span class='underline'>large-scale operations</span>, <span class='underline'>accessibility</span>, and <span class='underline'>user management</span>.",
       "imgs": [
         "assets/images/content/content1.png",
         "assets/images/content/content2.png",
@@ -73,26 +73,17 @@
         "assets/images/content/content4.png"
       ],
       "demoLink": "https://content.btgpactual.com/research/home",
-      "Technologies": [
-        "Angular",
-        "SASS",
-        "Angular Material",
-        "RxJS",
-        "Java",
-        "C# .Net",
-        "AWS",
-        "Spring Boot"
-      ]
+      "Technologies": ["Angular", "RxJS"]
     },
     {
-      "Title": "New Line Platform",
-      "Description": "Platform created to capture customers for sales conversion.  <span class='underline'>integration with WhatsApp</span>, <span class='underline'> Contact Form</span>, <span class='underline'>customer management</span> It is <span class='underline'>Tag management for Google rank.</span>",
+      "Title": "Plataforma Nova Linha",
+      "Description": "A platform created for customer acquisition and sales conversion, featuring <span class='underline'>WhatsApp integration</span>, <span class='underline'>contact form</span>, <span class='underline'>client management</span>, and <span class='underline'>tag management for Google ranking</span>.",
       "imgs": ["assets/images/novalinha/novalinha.png"],
       "Technologies": ["VueJS", "Vercel", "SASS"]
     },
     {
-      "Title": "Gloria Institute",
-      "Description": "Platform to increase contact between both those who already help and those who do not help, the fight against gender-based violence, <span class='underline'>timeline</span>, <span class='underline'>Contact Form</span>, <span class='underline'>Google Analytics</span>, It is <span class='underline'>donation and direct contact with beneficiaries.</span>",
+      "Title": "Instituto Gloria",
+      "Description": "A platform to increase the connection between those already involved and those who are not in the fight against gender-based violence, featuring a <span class='underline'>timeline</span>, <span class='underline'>contact form</span>, <span class='underline'>Google Analytics</span>, and <span class='underline'>donation and direct contact with those receiving assistance</span>.",
       "imgs": [
         "assets/images/gloria/gloria1.png",
         "assets/images/gloria/gloria2.png",
@@ -102,7 +93,7 @@
     },
     {
       "Title": "Bankers",
-      "Description": "Educational portal focused on training internalized professionals, <span class='underline'>configurable graphics</span>, <span class='underline'>videos and others</span>, <span class='underline'>user management</span>, It is <span class='underline'>multiple languages.</span>",
+      "Description": "An educational portal focused on training internalized professionals, featuring <span class='underline'>customizable charts</span>, <span class='underline'>videos and more</span>, <span class='underline'>user management</span>, and <span class='underline'>multiple languages</span>.",
       "imgs": [
         "assets/images/bankers/bankers1.png",
         "assets/images/bankers/bankers2.png",
@@ -112,8 +103,8 @@
     }
   ],
   "OtherProjects.Title": "More projects",
-  "Contact.Pretitle": "What is the next",
+  "Contact.Pretitle": "What's next",
   "Contact.Title": "Get in touch!",
-  "Contact.Content": "I would be happy to hear from you if you would like to talk about new opportunities. ",
+  "Contact.Content": "I would be happy to hear from you if you'd like to talk about new opportunities.",
   "Contact.Btn": "Say hello"
 }
