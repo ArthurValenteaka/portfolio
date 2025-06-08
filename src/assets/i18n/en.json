@@ -19,7 +19,7 @@
     {
       "Tab": "BTG Pactual",
       "Title": "Software Developer",
-      "Date": "March 2022 - Present",
+      "Date": "March 2021 - Present",
       "Description": [
         "My current role involves working on the internal credit system, maintaining over 44 million integrations every day. One of the main repositories I work on handles the Small and Medium Enterprises (SME) sector, which includes developing highly scalable features due to the system's large demand.",
         "Creation and maintenance of an economic monitoring platform for high and mid-level investors with over 20,000 weekly users.",
@@ -42,7 +42,7 @@
     {
       "Tab": "DESTEC",
       "Title": "FullStack Developer",
-      "Date": "July 2018 - December 2020",
+      "Date": "July 2019 - December 2021",
       "Description": [
         "Creation of interactive and accessible landing pages to capture users for the client.",
         "Using 'observables' to manage API requests with RxJS.",
