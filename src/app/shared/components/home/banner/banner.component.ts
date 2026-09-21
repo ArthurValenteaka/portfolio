@@ -32,9 +32,15 @@ import { AnalyticsService } from 'src/app/shared/services/analytics/analytics.se
   ],
 })
 export class BannerComponent implements OnInit {
+  yearsOfExperience = new Date().getFullYear() - 2019;
+
   constructor(public analyticsService: AnalyticsService) {}
 
   ngOnInit(): void {}
+
+  interpolateYears(text: string): string {
+    return text.replace(/\{\{\s*years\s*\}\}/g, String(this.yearsOfExperience));
+  }
 
   downloadCV() {
     let url = window.location.href;
