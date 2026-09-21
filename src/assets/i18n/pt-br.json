@@ -6,7 +6,7 @@
   "Header.cvBtn": "Curriculum",
   "Header.cvName": "CV_Arthur_Valente.pdf",
   "Banner.Pretitle": "Olá! meu nome é",
-  "Banner.Description": "Tenho <span class='underline'>4 anos de experiência</span> desenvolvendo sistemas e interfaces, sempre com muita curiosidade para descobrir a melhor versão para o código e sendo assim a melhor versão de mim. Apesar de trabalhar principalmente com  <span class='underline'>Angular</span>, no momento estou com foco em <span class='underline'>Java e C#</span>, aplicando boas práticas e padrões de desenvolvimento.",
+  "Banner.Description": "Com <span class='underline'>4 anos de experiência</span> desenvolvendo sistemas, interfaces, sempre atuando com muita curiosidade para descobrir a melhor versão do meu código e sendo assim a melhor versão de mim mesmo. <br> Nos dias de hoje atuo como <span class='underline'>FullStack</span> e minhas principais tecnológias são <span class='underline'>C#, Java e Angular + </span>.",
   "Banner.ActionBtn": "Entrar em contato",
   "AboutMe.Title": "Sobre mim",
     "AboutMe.Paragraphs": [
@@ -20,13 +20,12 @@
     {
       "Tab": "BTG Pactual",
       "Title": "Desenvolvedor de software",
-      "Date": "Março de 2022 - Presente",
+      "Date": "Março de 2021 - Presente",
       "Description": [
+        "Minha função hoje é atuar no sistema interno de crédito mantendo mais de 44 milhões de integrações todos os dias, um dos principais repositorios que atuo cuida da parte de Pequenas e Médias Empresas (PME), que engloba criar features de alta escalabilidade dado o tamanho da demanda que o sistema possui. ",
         "Criação e manutenção de plataforma de monitoramento econômico para investidores de alto e médio padrão com mais de 20 mil usuários semanais",
         "Programação funcional em templates e plugins para adicionar os recursos de monitoramento necessários.",
-        "Implementação de integração contínua e backups diários.",
-        "Criação e manutenção de uma segunda Plataforma de Monitoramento Feito em Angular, Angular Material, RxJS, Sass com gráficos (configuráveis), sistema de alarmes, e gerenciamento de usuários e configuração de parâmetros gerais. (CMS)",
-        "Planejamento, reuniões e relatórios."
+        "Criação e manutenção de uma segunda Plataforma de Monitoramento Feito em Angular com gráficos (configuráveis), sistema de alarmes, gerenciamento de usuários e configuração de parâmetros gerais. (CMS)"
       ]
     },
     {
@@ -42,9 +41,9 @@
       ]
     },
     {
-      "Tab": "Destec",
+      "Tab": "DESTEC",
       "Title": "Desenvolvedor FullStack",
-      "Date": "Julho de 2018 - dezembro de 2020",
+      "Date": "Julho de 2019 - dezembro de 2021",
       "Description": [
         "Criação de landing pages interativas e acessíveis para captar usuário para o cliente",
         "Utilizando 'observables' para gerenciamento de solicitações de APIs com RxJS.",
@@ -75,15 +74,7 @@
         "assets/images/content/content4.png"
       ],
       "demoLink": "https://content.btgpactual.com/research/home",
-      "Technologies": [
-        "Angular",
-        "SASS",
-        "Material Angular",
-        "RxJS",
-        "Java",
-        "C# .Net",
-        "Spring Boot"
-      ]
+      "Technologies": ["C# .Net", "AWS", "PostegresSQL", "Angular"]
     },
     {
       "Title": "Plataforma Nova Linha",
