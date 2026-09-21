@@ -7,7 +7,13 @@ import { AnalyticsService } from 'src/app/shared/services/analytics/analytics.se
   styleUrls: ['./about.component.scss'],
 })
 export class AboutComponent implements OnInit {
+  yearsOfExperience = new Date().getFullYear() - 2019;
+
   constructor(public analyticsService: AnalyticsService) {}
 
   ngOnInit(): void {}
+
+  interpolateYears(text: string): string {
+    return text.replace(/\{\{\s*years\s*\}\}/g, String(this.yearsOfExperience));
+  }
 }

@@ -9,10 +9,10 @@
   "Banner.Description": "With <span class='underline'>4 years of experience</span> developing systems and interfaces, always acting with great curiosity to discover the best version of my code and thus becoming the best version of myself. <br> Nowadays, I work as a <span class='underline'>FullStack</span>, and my main technologies are <span class='underline'>C#, Java, and Angular +</span>.",
   "Banner.ActionBtn": "Get in touch",
   "AboutMe.Title": "About me",
-  "AboutMe.Paragraphs": [
-    "For <span class='underline'>4 years as a developer</span>, practicing and learning every day. Always working with <span class='underline'>unit testing</span>, <span class='underline'>performing continuous integration</span>, and maintaining code durability with clean architecture.",
-    "I have experience with highly scalable applications, applying algorithms to handle high demand in the system.",
-    "Some of the technologies I have worked with (but are not limited to):"
+    "AboutMe.Paragraphs": [
+    "There is <span class='underline'>{{years}} years as a developer</span>, practicing and learning every day. <span class='underline'>unitary tests</span>, <span class='underline'>performing continuous integration</span> and covering front-end developer roles with transition to <span class='underline'>backend</span>. ",
+    "My skills also include implementing system improvements, optimizing websites, standards, suggesting and executing ideas that add value to the project I am working on.",
+    "Some of the technologies I have trained and worked on include (but are not limited to):"
   ],
   "Experience.Title": "Experience",
   "Experience.Jobs": [

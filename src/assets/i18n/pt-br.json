@@ -9,10 +9,11 @@
   "Banner.Description": "Com <span class='underline'>4 anos de experiência</span> desenvolvendo sistemas, interfaces, sempre atuando com muita curiosidade para descobrir a melhor versão do meu código e sendo assim a melhor versão de mim mesmo. <br> Nos dias de hoje atuo como <span class='underline'>FullStack</span> e minhas principais tecnológias são <span class='underline'>C#, Java e Angular + </span>.",
   "Banner.ActionBtn": "Entrar em contato",
   "AboutMe.Title": "Sobre mim",
-  "AboutMe.Paragraphs": [
-    "Há <span class='underline'>4 anos como desenvolvedor</span>, praticando e aprendendo todos os dias. Trabalhando desde sempre com <span class='underline'>testes unitários,</span> <span class='underline'>realizando integração contínua</span> e mantendo a durabilidade do código com limpa arquitetura. ",
-    "Tenho experiência com aplicações com alta escalabilidade, aplicando algoritimos sempre para aguentar uma alta demanda no sistema.",
-    "Algumas das tecnologias nas quais eu já trabalhei (mas não estão limitadas a):"
+    "AboutMe.Paragraphs": [
+    "Há <span class='underline'>{{years}} anos como desenvolvedor</span>, praticando e aprendendo todos os dias. <span class='underline'>testes unitários</span>, <span class='underline'>realizando integração contínua</span>e cobrindo funções de desenvolvedor front-end com transição <span class='underline'>back-end</span>. ",
+    "Formado em <span class='underline'>Analise e desenvolvimento de sistemas </span> pela instituição <span class='underline'>IESB</span>, aplicando todo conhecimento de analisar projetar e documentar sistemas com qualidade e robustez.",
+    "Minhas habilidades também incluem implementar melhorias em sistemas, otimizar sites, padronizar, sugerir e executar ideias que agreguem valor ao projeto em que estou trabalhando.",
+    "Algumas das <span class='underline'>tecnologias</span> nas quais treinei e trabalhei incluem (mas não estão limitadas a):"
   ],
   "Experience.Title": "Experiência",
   "Experience.Jobs": [
